@@ -1,0 +1,5 @@
+<root>
+    <item name='butterknife.OnClick int[] value()'>
+        <annotation name='android.support.annotation.Nullable' />
+    </item>
+</root>
